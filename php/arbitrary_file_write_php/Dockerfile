@@ -1,4 +1,4 @@
-FROM php
+FROM php:8.5.0RC2-trixie
 
 USER root
 
